@@ -1,0 +1,3 @@
+Le fichier faire_matrice.m permet de générer les matrices de chaque type pour des tailles demandées. Il permet de mettre genere à 0 dans le reste des fichiers matlab.
+Le fichier q14.m permet de générer le graphe présenté à la question 14 c'est-à-dire les valeurs propres de chaque type de matrice.
+Le fichier q15.m permet de tester tous les algorithmes en même temps en donnant une taille de matrice n ainsi que son type (imat). 

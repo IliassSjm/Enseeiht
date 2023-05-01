@@ -1,0 +1,4 @@
+J'ai rencontré quelques difficultés durant ce projet. Surtout lors de l'étape de réalisation de MasterOPL j'ai du revenir à plusieurs fois. Tout d'abord le code était pas bon ensuite est survenue un problème d'incrémentation sur l'octet et enfin un problème selon les simulations. 
+
+
+Ensuite, concernant le joystick j'ai eu des difficultés pour générer le Programming file. J'ai du rajouter une commande à la ligne 30 pour désactviter le clock il me semble pour que cela compile. Je n'ai aussi pas eu le temps de tester le tout à l'aide du joystick en classe par manque de temps car je n'avais toujours pas fini MasterOPL.

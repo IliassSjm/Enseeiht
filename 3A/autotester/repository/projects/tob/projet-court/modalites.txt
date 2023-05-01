@@ -1,0 +1,42 @@
+Voulez-vous jouer tous les tests (oui / non) ? non
+Voulez-vous jouer tous les tests qui n'ont pas de restriction de tentatives (infini) ? non
+
+setup : non
+    nombre de tentatives infini, vous avez joue ce test 65 fois
+    derniere tentative = 2021-07-23 18:20:48.786489
+    prochaine tentative possible = 2021-07-23 18:20:53.786489
+
+similitude : non
+    nombre de tentatives infini, vous avez joue ce test 65 fois
+    derniere tentative = 2021-07-23 18:20:49.262018
+    prochaine tentative possible = 2021-07-23 18:20:54.262018
+
+checkstyle : non
+    nombre de tentatives infini, vous avez joue ce test 51 fois
+    derniere tentative = 2021-07-23 12:46:01.225750
+    prochaine tentative possible = 2021-07-23 12:46:06.225750
+
+utilisationword : non
+    nombre de tentatives infini, vous avez joue ce test 36 fois
+    derniere tentative = 2021-07-22 14:30:26.419934
+    prochaine tentative possible = 2021-07-22 14:30:31.419934
+
+compilationjava : non
+    nombre de tentatives infini, vous avez joue ce test 36 fois
+    derniere tentative = 2021-07-23 18:01:18.103523
+    prochaine tentative possible = 2021-07-23 18:01:23.103523
+
+blackbox : non
+    nombre de tentatives infini, vous avez joue ce test 34 fois
+    derniere tentative = 2021-07-23 18:20:51.464804
+    prochaine tentative possible = 2021-07-23 18:20:56.464804
+
+assertions : non
+    nombre de tentatives infini, vous avez joue ce test 9 fois
+    derniere tentative = 2021-07-17 14:27:03.934296
+    prochaine tentative possible = 2021-07-17 14:27:08.934296
+
+sans_assertions : non
+    nombre de tentatives infini, vous avez joue ce test 9 fois
+    derniere tentative = 2021-07-17 14:27:04.161927
+    prochaine tentative possible = 2021-07-17 14:27:09.161927
